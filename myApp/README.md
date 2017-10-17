@@ -1,0 +1,1 @@
+Não esqueça de rodar o comando npm install para adicionar as bibliotecas necessárias para o projeto
